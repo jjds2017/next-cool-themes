@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>ctej.jpg</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:16:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed06c9982f4d82507bda55272799b60d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ctej.jpg</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_ed06c9982f4d82507bda55272799b60d</sys_update_name>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:16:15</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#faf8fa</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>ctej.jpg</file_name>
+        <hash>8367a34c3f7ce1fa70610622f7d2140b3cbef9f4fb12802100583cf1dd92cde6</hash>
+        <image_height>50</image_height>
+        <image_width>400</image_width>
+        <size_bytes>2179</size_bytes>
+        <size_compressed>1877</size_compressed>
+        <state>available</state>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:15:23</sys_created_on>
+        <sys_id>7c2641982f4d82507bda55272799b639</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:15:44</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>ed06c9982f4d82507bda55272799b60d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="ctej.jpg" sys_id="7c2641982f4d82507bda55272799b639">7c2641982f4d82507bda55272799b639</sys_attachment>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:15:23</sys_created_on>
+        <sys_id>bc2641982f4d82507bda55272799b639</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2492</length>
+        <position>1</position>
+        <sys_attachment display_value="ctej.jpg" sys_id="7c2641982f4d82507bda55272799b639">7c2641982f4d82507bda55272799b639</sys_attachment>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:15:23</sys_created_on>
+        <sys_id>302641982f4d82507bda55272799b63a</sys_id>
+    </sys_attachment_doc>
+</record_update>

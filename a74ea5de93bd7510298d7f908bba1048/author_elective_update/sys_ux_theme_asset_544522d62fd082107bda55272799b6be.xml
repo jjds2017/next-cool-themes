@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="DELETE">
+        <category>image</category>
+        <name>CTEJ</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-02-14 02:32:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>544522d62fd082107bda55272799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CTEJ</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_544522d62fd082107bda55272799b6be</sys_update_name>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-02-14 02:32:25</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</application>
+        <file_path/>
+        <instance_id>2a46ac04db49f38007072f17d496199a</instance_id>
+        <instance_name>dev82510</instance_name>
+        <name>sys_ux_theme_asset_544522d62fd082107bda55272799b6be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset"><sys_ux_theme_asset action="INSERT_OR_UPDATE"><category>image</category><name>CTEJ</name><sys_class_name>sys_ux_theme_asset</sys_class_name><sys_created_by>jdoyle</sys_created_by><sys_created_on>2024-02-14 02:32:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>544522d62fd082107bda55272799b6be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CTEJ</sys_name><sys_overrides/><sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package><sys_policy/><sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope><sys_update_name>sys_ux_theme_asset_544522d62fd082107bda55272799b6be</sys_update_name><sys_updated_by>jdoyle</sys_updated_by><sys_updated_on>2024-02-14 02:32:25</sys_updated_on></sys_ux_theme_asset></record_update>]]></payload>
+        <payload_hash>-1735490136</payload_hash>
+        <record_name>CTEJ</record_name>
+        <reverted_from/>
+        <source>481aa47c2f7842107bda55272799b62e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-11 22:03:38</sys_created_on>
+        <sys_id>f4da6c4b2f780e107bda55272799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e2f8af2080000001</sys_recorded_at>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-11 22:03:38</sys_updated_on>
+        <type>UX Theme Asset</type>
+        <update_guid>b0da6c834d780e102cd857a88bc33da5</update_guid>
+        <update_guid_history>b0da6c834d780e102cd857a88bc33da5:-1735490136,2265ae9659d0821020cd6914b800e1c2:2110023614</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-14 16:57:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_theme_asset">sys_ux_theme_asset</sys_db_object>
+        <sys_id>2ab93ac9daa142f88bf59175550ffc40</sys_id>
+        <sys_metadata>544522d62fd082107bda55272799b6be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CTEJ</sys_name>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_scope_delete display_value="">42887c305dca4fc6a38927144a3db1c4</sys_scope_delete>
+        <sys_update_name>sys_ux_theme_asset_544522d62fd082107bda55272799b6be</sys_update_name>
+        <sys_update_version display_value="sys_ux_theme_asset_544522d62fd082107bda55272799b6be">f4da6c4b2f780e107bda55272799b689</sys_update_version>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-14 16:57:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

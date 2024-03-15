@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
+    <m2m_style_asset action="DELETE">
+        <asset/>
+        <properties>{ "position": "header_logo" }</properties>
+        <style display_value="JJNow">11f00e5a2f1082107bda55272799b6a4</style>
+        <sys_class_name>m2m_style_asset</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-14 18:04:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>52a0d7b32f7042507bda55272799b6fe</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>m2m_style_asset_52a0d7b32f7042507bda55272799b6fe</sys_update_name>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:07:53</sys_updated_on>
+    </m2m_style_asset>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</application>
+        <file_path/>
+        <instance_id>2a46ac04db49f38007072f17d496199a</instance_id>
+        <instance_name>dev82510</instance_name>
+        <name>m2m_style_asset_52a0d7b32f7042507bda55272799b6fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset"><m2m_style_asset action="INSERT_OR_UPDATE"><asset/><properties>{ "position": "header_logo" }</properties><style display_value="JJNow">11f00e5a2f1082107bda55272799b6a4</style><sys_class_name>m2m_style_asset</sys_class_name><sys_created_by>jdoyle</sys_created_by><sys_created_on>2024-03-14 18:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>52a0d7b32f7042507bda55272799b6fe</sys_id><sys_mod_count>9</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package><sys_policy/><sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope><sys_update_name>m2m_style_asset_52a0d7b32f7042507bda55272799b6fe</sys_update_name><sys_updated_by>jdoyle</sys_updated_by><sys_updated_on>2024-03-15 21:07:53</sys_updated_on></m2m_style_asset></record_update>]]></payload>
+        <payload_hash>-704150346</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7110c21a2f1082107bda55272799b6e8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:14:26</sys_created_on>
+        <sys_id>4fe541982f4d82507bda55272799b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e43f755030000001</sys_recorded_at>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:14:26</sys_updated_on>
+        <type>UX Style Assets</type>
+        <update_guid>07640918dd4d82506a4b4d1530157df1</update_guid>
+        <update_guid_history>07640918dd4d82506a4b4d1530157df1:998812129,07640918dd4d82506a4b4d1530157df1:998812129,8a0481185e4d8250974717e0bb8dcd0e:853654148,80e34194c04d8250c9b1c0f17e05fb4c:887107446,5d620194e44d8250e9f568005f484f33:998812129,ef228954564d82509c3b7ecac19406dc:-122018158,f67cdf7364b042509b9441a23611791f:1419127431,c27a1bffc77042509baa076dbcd41536:-2146619951,2d5a9bff297042505fd37cbed1cbbb83:1488522898,4af05bf30d7042509a39c67c86ab4305:-2146619951,15e0d3f3677042501321ddf5313518bb:-831876160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2af505982f4d82507bda55272799b6a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:14:41</sys_created_on>
+        <sys_db_object display_value="" name="m2m_style_asset">m2m_style_asset</sys_db_object>
+        <sys_id>732d5954f96349f8a2bc2614de1f8911</sys_id>
+        <sys_metadata>52a0d7b32f7042507bda55272799b6fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_scope_delete display_value="">42887c305dca4fc6a38927144a3db1c4</sys_scope_delete>
+        <sys_update_name>m2m_style_asset_52a0d7b32f7042507bda55272799b6fe</sys_update_name>
+        <sys_update_version display_value="m2m_style_asset_52a0d7b32f7042507bda55272799b6fe">4fe541982f4d82507bda55272799b62f</sys_update_version>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:14:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

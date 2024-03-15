@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>JJNow</name>
+        <style>{&#13;
+    "base": {        &#13;
+        "--now-color--neutral": "181, 193, 178",&#13;
+        "--now-color--primary": "181, 193, 178",&#13;
+        "--now-color--secondary": "255, 203, 207",&#13;
+        "--now-color_chrome--brand": "255, 189, 213",&#13;
+        "--now-color_brand--neutral": "110,165,87",&#13;
+        "--now-color_brand--primary": "181, 193, 178",&#13;
+        "--now-color_brand--secondary": "150, 167, 145"&#13;
+    },&#13;
+    &#13;
+   "properties": {"position": "header_logo"}&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-02-13 23:53:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11f00e5a2f1082107bda55272799b6a4</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>JJNow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_style_11f00e5a2f1082107bda55272799b6a4</sys_update_name>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:18:14</sys_updated_on>
+        <type>variant</type>
+    </sys_ux_style>
+</record_update>

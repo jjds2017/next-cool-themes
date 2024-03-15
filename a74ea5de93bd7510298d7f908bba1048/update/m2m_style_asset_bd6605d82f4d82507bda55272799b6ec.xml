@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
+    <m2m_style_asset action="INSERT_OR_UPDATE">
+        <asset display_value="ctej.jpg">ed06c9982f4d82507bda55272799b60d</asset>
+        <properties>{ "position": "header_logo" }</properties>
+        <style display_value="JJNow">11f00e5a2f1082107bda55272799b6a4</style>
+        <sys_class_name>m2m_style_asset</sys_class_name>
+        <sys_created_by>jdoyle</sys_created_by>
+        <sys_created_on>2024-03-15 21:16:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd6605d82f4d82507bda55272799b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>m2m_style_asset_bd6605d82f4d82507bda55272799b6ec</sys_update_name>
+        <sys_updated_by>jdoyle</sys_updated_by>
+        <sys_updated_on>2024-03-15 21:16:44</sys_updated_on>
+    </m2m_style_asset>
+</record_update>
